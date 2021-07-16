@@ -1,0 +1,16 @@
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\File_Parser.exe
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\File_Parser.deps.json
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\File_Parser.runtimeconfig.json
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\File_Parser.runtimeconfig.dev.json
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\File_Parser.dll
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\ref\File_Parser.dll
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\bin\Debug\net5.0\File_Parser.pdb
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.csproj.AssemblyReference.cache
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.GeneratedMSBuildEditorConfig.editorconfig
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.AssemblyInfoInputs.cache
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.AssemblyInfo.cs
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.csproj.CoreCompileInputs.cache
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.dll
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\ref\File_Parser.dll
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.pdb
+J:\С Ter 3 5.07.21\Your projects\File_Parser\File_Parser\obj\Debug\net5.0\File_Parser.genruntimeconfig.cache
